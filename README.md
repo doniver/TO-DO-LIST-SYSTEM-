@@ -36,6 +36,7 @@ An ER diagram was created showing the relationship between tasks, history, and f
 Tables Overview
 
 1. tasks
+   
 | Column     | Description    
 | ---------- | -------------- 
 | id (PK)    | Unique task ID 
@@ -44,6 +45,7 @@ Tables Overview
 | created_at | Creation time  
 
 2. history
+   
 | Column                 | Description                        
 | ---------------------- | ---------------------------------- 
 | id (PK)                | History log ID                     
@@ -54,6 +56,7 @@ Tables Overview
 | timestamp              | Action time                       
  
 3. favorites
+   
 | Column       | Description    
 | ------------ | -------------- 
 | id (PK)      | Favorite ID    
